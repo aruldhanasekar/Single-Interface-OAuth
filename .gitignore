@@ -1,0 +1,8 @@
+.venv
+.venv/
+
+user_db.json
+
+__pycache__/
+
+.env
