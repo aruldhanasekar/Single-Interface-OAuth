@@ -11,8 +11,6 @@ import json
 app = FastAPI()
 
 
-user_db = []
-
 class RegisterUser(BaseModel):
     name: str
     email: str
